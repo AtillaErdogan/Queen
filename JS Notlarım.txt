@@ -1,0 +1,20 @@
+Let         =   Block içinde tanımlansada FUCN scope özelligi alıyor
+        	Bu yüzde ES6+ ile let ve const ifadeleri eklendi.
+
+Const       = 	Const ile verilen değerler sonradan değiştirilemez 
+		Bu özellik Let ile arasındaki en  temel farktır.
+
+Scope       =  	Scope kavramı erişebilirlik demektir
+		Bu kavram Block Scope, Func Scope, Global Scopedur
+
+Destructing =   Let langs = ["C#", "C++"] 
+		(Dizilerde köşeli Objelerde {} parantez kullanılır)
+		[lang1,lang2] = langs  Destructing kullanımı.  
+		Console.log(lang1,lang2);	 
+	
+
+Promise	    =   Promise (Resolve ve reject değer döner)
+		dönen değer Resolve ise .Then ile yakalanır.
+		dönen değer Reject ise .Catch ile yakalanır.
+
+cı cd

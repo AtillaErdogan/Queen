@@ -1,0 +1,4 @@
+cmd kodları
+node -- verison = node versiyon u gösterir
+cls = terminali temizler.
+cd dosya adı = desktop/../dosya adı an gider.
