@@ -5,3 +5,6 @@ cd dosya adı = desktop/../dosya adı an gider.
 
 
 WebApı > RestFullApı
+
+CORS  :  (Cross-Origin Resource Sharing), farklı kaynaklar (origin'ler) arasında yapılan 
+	 HTTP isteklerinin güvenli bir şekilde gerçekleştirilmesini sağlayan bir mekanizmadır.
